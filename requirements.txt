@@ -1,9 +1,10 @@
+streamlit
 langchain
 langchain-community
-pypdf
-streamlit
-python-dotenv
-google-generativeai
-faiss-cpu
-sentence-transformers
 langchain-google-genai
+langchain-groq
+faiss-cpu
+pypdf
+python-dotenv
+tiktoken
+sentence-transformers
