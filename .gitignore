@@ -1,0 +1,25 @@
+# Virtual env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# Vector DB
+vectorstore/
+*.faiss
+*.pkl
+
+# Data
+data/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
